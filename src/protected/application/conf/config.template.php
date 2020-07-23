@@ -60,7 +60,7 @@ return array_merge($config,
 
         // Token da API de Cep
         // Adquirido ao fazer cadastro em http://www.cepaberto.com/
-        // 'cep.token' => '[token]',
+         'cep.token' => '[66a50c5065b209ef5d3aaa1bb57c5668]',
 
         /* Modelo de configuração para usar o id da cultura */
 //        'auth.provider' => 'OpauthOpenId',
