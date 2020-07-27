@@ -7,8 +7,8 @@ return array_merge($config,
         'app.siteDescription' => \MapasCulturais\i::__('Perguntar depois'),
 
         /* configure e descomente as linhas abaixo para habilitar um tema personalizado */
-        // 'namespaces' => array_merge( $config['namespaces'], ['BaseV1' => THEMES_PATH'BaseV1']),
-        // 'themes.active' => 'BaseV1',
+        'namespaces' => array_merge( $config['namespaces'], ['BaseV1' => THEMES_PATH'BaseV1']),
+         'themes.active' => 'BaseV1',
 
 	/* to setup Saas Subsite theme */
 	//'namespaces' => array(
@@ -35,6 +35,7 @@ return array_merge($config,
         'doctrine.isDev' => false,
         'slim.debug' => false,
         'maps.includeGoogleLayers' => true,
+	 'app.useAssetsUrlCache' => false,
 
         'app.geoDivisionsHierarchy' => [
             'pais'              => ['name' => \MapasCulturais\i::__('País'),            'showLayer' => true],
@@ -52,9 +53,32 @@ return array_merge($config,
         'maps.center' => [-22.976929, -46.532852],
 
         // zoom do mapa
-        'maps.zoom.default' => 5,
+        'maps.zoom.default' => 12,
 
-        'plugins.enabled' => array('agenda-singles', 'endereco'),
+        'plugins.enabled' => array('endereco', 'notifications', 'em-cartaz'),
+'plugins' => array(
+  'ProjectPhases' => ['namespace' => 'ProjectPhases'],
+     'AgendaSingles' => ['namespace' => 'AgendaSingles'],
+     'OriginSite' => [
+        'namespace' => 'OriginSite',
+        'config'    => ['siteId' => 'https://mapaculturalbraganca.sp.gov.br']
+     ]
+	'plugins' => array(
+  'SubsiteDomainSufix' => [
+    'namespace' => 'SubsiteDomainSufix',
+    'config' => [
+      'sufix' => function () {
+        return 'domain-sufix.sp.gov.br';
+      }
+    ]
+  ]
+)
+	'plugins' => array("notifications");
+	'notifications.interval' => 60,  // seconds
+	'notifications.user.access'     => 90,  // days
+	'notifications.entities.update' => 90,  // days
+	'notifications.seals.toExpire' => 90,  // days
+),
 
         'auth.provider' => 'Fake',
 
