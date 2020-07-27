@@ -75,6 +75,7 @@ return array_merge($config,
     // ... outros plugins
     'MultipleLocalAuth' => [
         'namespace' => 'MultipleLocalAuth',
+	    'auth.provider' => '\MultipleLocalAuth\Provider',
     ],
 ],
 )	
