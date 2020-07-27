@@ -11,12 +11,12 @@ return array_merge($config,
          'themes.active' => 'BaseV1',
 
 	/* to setup Saas Subsite theme */
-	//'namespaces' => array(
-        //    'MapasCulturais\Themes' => THEMES_PATH,
-        //    'TemplateV1' => THEMES_PATH . '/TemplateV1/',
-        //    'Subsite' => THEMES_PATH . '/Subsite/'
-        //),
-
+'namespaces' => array(
+  'MapasCulturais\Themes' => THEMES_PATH,
+  'BaseMinc' => THEMES_PATH . '/mapasculturais-baseminc/', // Tema padrão que será utilizado quando não for acessada nenhuma instalação SaaS
+  'Subsite' => THEMES_PATH . '/Subsite/', //Tema do SaaS que utilizará as informações cadastradas via entidade SubSite
+  $theme_namespace => $theme_path
+  ),
 
         'themes.assetManager' => new \MapasCulturais\AssetManagers\FileSystem([
             'publishPath' => BASE_PATH . 'assets/',
@@ -63,7 +63,6 @@ return array_merge($config,
         'namespace' => 'OriginSite',
         'config'    => ['siteId' => 'https://mapaculturalbraganca.sp.gov.br']
      ]
-	'plugins' => array(
   'SubsiteDomainSufix' => [
     'namespace' => 'SubsiteDomainSufix',
     'config' => [
@@ -72,25 +71,14 @@ return array_merge($config,
       }
     ]
   ]
+	'plugins' => [
+    // ... outros plugins
+    'MultipleLocalAuth' => [
+        'namespace' => 'MultipleLocalAuth',
+    ],
+],
 )	
 ),
-	    'plugins' => array("notifications")
-	    'notifications.interval' => 60,  // seconds
-	'notifications.user.access'     => 90,  // days
-	'notifications.entities.update' => 90,  // days
-	'notifications.seals.toExpire' => 90,  // days
-	    
-	    
-	    
-	    
-	    
-	    'plugins.enabled' => array("mailer");	
-	    'mailer.user' => "admin@mapasculturais.org"
-	    'mailer.psw'  => "password"
-	    'mailer.protocol' => 'ssl'
-	    'mailer.server' => 'smtp.gmail.com'
-	    'mailer.port'   => '465'
-	    'mailer.from' => 'suporte@mapasculturais.org'
 	    
 	    'module.CompliantSuggestion' => [
     'compliant' => true,
