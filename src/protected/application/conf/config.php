@@ -72,14 +72,32 @@ return array_merge($config,
       }
     ]
   ]
-)
-	'plugins' => array("notifications");
-	'notifications.interval' => 60,  // seconds
+)	
+),
+	    'plugins' => array("notifications")
+	    'notifications.interval' => 60,  // seconds
 	'notifications.user.access'     => 90,  // days
 	'notifications.entities.update' => 90,  // days
 	'notifications.seals.toExpire' => 90,  // days
-),
-
+	    
+	    
+	    
+	    
+	    
+	    'plugins.enabled' => array("mailer");	
+	    'mailer.user' => "admin@mapasculturais.org"
+	    'mailer.psw'  => "password"
+	    'mailer.protocol' => 'ssl'
+	    'mailer.server' => 'smtp.gmail.com'
+	    'mailer.port'   => '465'
+	    'mailer.from' => 'suporte@mapasculturais.org'
+	    
+	    'module.CompliantSuggestion' => [
+    'compliant' => true,
+    'suggestion' => true
+],
+,
+	    
         'auth.provider' => 'Fake',
 
         // Token da API de Cep
