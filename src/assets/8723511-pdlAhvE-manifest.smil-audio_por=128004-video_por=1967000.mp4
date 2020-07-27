@@ -1,0 +1,2319 @@
+#EXTM3U
+#EXT-X-VERSION:4
+## Created with Unified Streaming Platform(version=1.9.6)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:7
+#USP-X-TIMESTAMP-MAP:MPEGTS=900000,LOCAL=1970-01-01T00:00:00Z
+#EXTINF:6.6733, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-2.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-3.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-4.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-5.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-6.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-7.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-8.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-9.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-10.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-11.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-12.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-13.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-14.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-15.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-16.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-17.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-18.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-19.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-20.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-21.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-22.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-23.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-24.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-25.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-26.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-27.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-28.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-29.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-30.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-31.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-32.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-33.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-34.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-35.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-36.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-37.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-38.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-39.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-40.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-41.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-42.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-43.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-44.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-45.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-46.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-47.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-48.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-49.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-50.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-51.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-52.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-53.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-54.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-55.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-56.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-57.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-58.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-59.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-60.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-61.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-62.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-63.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-64.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-65.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-66.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-67.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-68.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-69.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-70.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-71.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-72.ts
+#EXTINF:6.7067, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-73.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-74.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-75.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-76.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-77.ts
+#EXTINF:5.005, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-78.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-79.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-80.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-81.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-82.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-83.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-84.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-85.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-86.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-87.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-88.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-89.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-90.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-91.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-92.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-93.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-94.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-95.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-96.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-97.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-98.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-99.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-100.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-101.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-102.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-103.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-104.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-105.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-106.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-107.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-108.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-109.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-110.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-111.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-112.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-113.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-114.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-115.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-116.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-117.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-118.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-119.ts
+#EXTINF:6.6399, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-120.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-121.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-122.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-123.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-124.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-125.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-126.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-127.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-128.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-129.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-130.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-131.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-132.ts
+#EXTINF:5.5722, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-133.ts
+#EXTINF:6.4731, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-134.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-135.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-136.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-137.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-138.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-139.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-140.ts
+#EXTINF:6.7734, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-141.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-142.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-143.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-144.ts
+#EXTINF:5.005, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-145.ts
+#EXTINF:6.6399, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-146.ts
+#EXTINF:5.7724, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-147.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-148.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-149.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-150.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-151.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-152.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-153.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-154.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-155.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-156.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-157.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-158.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-159.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-160.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-161.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-162.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-163.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-164.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-165.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-166.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-167.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-168.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-169.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-170.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-171.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-172.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-173.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-174.ts
+#EXTINF:6.74, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-175.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-176.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-177.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-178.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-179.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-180.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-181.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-182.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-183.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-184.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-185.ts
+#EXTINF:5.9054, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-186.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-187.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-188.ts
+#EXTINF:5.6056, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-189.ts
+#EXTINF:6.4397, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-190.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-191.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-192.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-193.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-194.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-195.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-196.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-197.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-198.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-199.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-200.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-201.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-202.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-203.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-204.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-205.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-206.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-207.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-208.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-209.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-210.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-211.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-212.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-213.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-214.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-215.ts
+#EXTINF:6.5065, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-216.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-217.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-218.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-219.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-220.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-221.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-222.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-223.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-224.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-225.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-226.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-227.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-228.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-229.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-230.ts
+#EXTINF:6.74, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-231.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-232.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-233.ts
+#EXTINF:5.372, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-234.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-235.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-236.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-237.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-238.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-239.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-240.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-241.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-242.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-243.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-244.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-245.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-246.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-247.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-248.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-249.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-250.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-251.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-252.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-253.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-254.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-255.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-256.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-257.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-258.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-259.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-260.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-261.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-262.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-263.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-264.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-265.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-266.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-267.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-268.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-269.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-270.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-271.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-272.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-273.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-274.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-275.ts
+#EXTINF:6.6733, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-276.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-277.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-278.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-279.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-280.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-281.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-282.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-283.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-284.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-285.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-286.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-287.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-288.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-289.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-290.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-291.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-292.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-293.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-294.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-295.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-296.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-297.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-298.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-299.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-300.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-301.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-302.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-303.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-304.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-305.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-306.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-307.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-308.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-309.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-310.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-311.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-312.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-313.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-314.ts
+#EXTINF:5.5388, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-315.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-316.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-317.ts
+#EXTINF:6.7734, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-318.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-319.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-320.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-321.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-322.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-323.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-324.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-325.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-326.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-327.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-328.ts
+#EXTINF:5.005, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-329.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-330.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-331.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-332.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-333.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-334.ts
+#EXTINF:6.7067, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-335.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-336.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-337.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-338.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-339.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-340.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-341.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-342.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-343.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-344.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-345.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-346.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-347.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-348.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-349.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-350.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-351.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-352.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-353.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-354.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-355.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-356.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-357.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-358.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-359.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-360.ts
+#EXTINF:5.739, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-361.ts
+#EXTINF:6.7067, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-362.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-363.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-364.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-365.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-366.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-367.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-368.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-369.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-370.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-371.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-372.ts
+#EXTINF:5.7724, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-373.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-374.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-375.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-376.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-377.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-378.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-379.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-380.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-381.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-382.ts
+#EXTINF:6.6733, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-383.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-384.ts
+#EXTINF:5.739, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-385.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-386.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-387.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-388.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-389.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-390.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-391.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-392.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-393.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-394.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-395.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-396.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-397.ts
+#EXTINF:5.739, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-398.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-399.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-400.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-401.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-402.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-403.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-404.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-405.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-406.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-407.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-408.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-409.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-410.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-411.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-412.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-413.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-414.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-415.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-416.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-417.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-418.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-419.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-420.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-421.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-422.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-423.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-424.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-425.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-426.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-427.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-428.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-429.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-430.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-431.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-432.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-433.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-434.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-435.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-436.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-437.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-438.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-439.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-440.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-441.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-442.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-443.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-444.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-445.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-446.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-447.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-448.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-449.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-450.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-451.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-452.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-453.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-454.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-455.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-456.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-457.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-458.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-459.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-460.ts
+#EXTINF:6.5398, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-461.ts
+#EXTINF:5.7057, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-462.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-463.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-464.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-465.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-466.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-467.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-468.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-469.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-470.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-471.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-472.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-473.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-474.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-475.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-476.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-477.ts
+#EXTINF:5.7857, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-478.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-479.ts
+#EXTINF:6.4397, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-480.ts
+#EXTINF:5.6056, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-481.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-482.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-483.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-484.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-485.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-486.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-487.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-488.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-489.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-490.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-491.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-492.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-493.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-494.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-495.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-496.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-497.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-498.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-499.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-500.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-501.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-502.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-503.ts
+#EXTINF:5.7724, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-504.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-505.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-506.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-507.ts
+#EXTINF:6.5398, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-508.ts
+#EXTINF:5.739, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-509.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-510.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-511.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-512.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-513.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-514.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-515.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-516.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-517.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-518.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-519.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-520.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-521.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-522.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-523.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-524.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-525.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-526.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-527.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-528.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-529.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-530.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-531.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-532.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-533.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-534.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-535.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-536.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-537.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-538.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-539.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-540.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-541.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-542.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-543.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-544.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-545.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-546.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-547.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-548.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-549.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-550.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-551.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-552.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-553.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-554.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-555.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-556.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-557.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-558.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-559.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-560.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-561.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-562.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-563.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-564.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-565.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-566.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-567.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-568.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-569.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-570.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-571.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-572.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-573.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-574.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-575.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-576.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-577.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-578.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-579.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-580.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-581.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-582.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-583.ts
+#EXTINF:6.7734, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-584.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-585.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-586.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-587.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-588.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-589.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-590.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-591.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-592.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-593.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-594.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-595.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-596.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-597.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-598.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-599.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-600.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-601.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-602.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-603.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-604.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-605.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-606.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-607.ts
+#EXTINF:5.5722, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-608.ts
+#EXTINF:6.1728, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-609.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-610.ts
+#EXTINF:6.6399, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-611.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-612.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-613.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-614.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-615.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-616.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-617.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-618.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-619.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-620.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-621.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-622.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-623.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-624.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-625.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-626.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-627.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-628.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-629.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-630.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-631.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-632.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-633.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-634.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-635.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-636.ts
+#EXTINF:6.5732, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-637.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-638.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-639.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-640.ts
+#EXTINF:5.5388, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-641.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-642.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-643.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-644.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-645.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-646.ts
+#EXTINF:6.6733, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-647.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-648.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-649.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-650.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-651.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-652.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-653.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-654.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-655.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-656.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-657.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-658.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-659.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-660.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-661.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-662.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-663.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-664.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-665.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-666.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-667.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-668.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-669.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-670.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-671.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-672.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-673.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-674.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-675.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-676.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-677.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-678.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-679.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-680.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-681.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-682.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-683.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-684.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-685.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-686.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-687.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-688.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-689.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-690.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-691.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-692.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-693.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-694.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-695.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-696.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-697.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-698.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-699.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-700.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-701.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-702.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-703.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-704.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-705.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-706.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-707.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-708.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-709.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-710.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-711.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-712.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-713.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-714.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-715.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-716.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-717.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-718.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-719.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-720.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-721.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-722.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-723.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-724.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-725.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-726.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-727.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-728.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-729.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-730.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-731.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-732.ts
+#EXTINF:5.6056, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-733.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-734.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-735.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-736.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-737.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-738.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-739.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-740.ts
+#EXTINF:6.6066, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-741.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-742.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-743.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-744.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-745.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-746.ts
+#EXTINF:6.6733, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-747.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-748.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-749.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-750.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-751.ts
+#EXTINF:6.3396, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-752.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-753.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-754.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-755.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-756.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-757.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-758.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-759.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-760.ts
+#EXTINF:5.6389, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-761.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-762.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-763.ts
+#EXTINF:5.7057, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-764.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-765.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-766.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-767.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-768.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-769.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-770.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-771.ts
+#EXTINF:6.74, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-772.ts
+#EXTINF:5.7057, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-773.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-774.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-775.ts
+#EXTINF:6.6399, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-776.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-777.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-778.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-779.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-780.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-781.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-782.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-783.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-784.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-785.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-786.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-787.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-788.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-789.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-790.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-791.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-792.ts
+#EXTINF:5.7724, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-793.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-794.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-795.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-796.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-797.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-798.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-799.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-800.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-801.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-802.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-803.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-804.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-805.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-806.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-807.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-808.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-809.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-810.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-811.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-812.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-813.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-814.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-815.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-816.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-817.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-818.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-819.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-820.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-821.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-822.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-823.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-824.ts
+#EXTINF:6.457, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-825.ts
+#EXTINF:5.3053, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-826.ts
+#EXTINF:6.5398, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-827.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-828.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-829.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-830.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-831.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-832.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-833.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-834.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-835.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-836.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-837.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-838.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-839.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-840.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-841.ts
+#EXTINF:5.6723, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-842.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-843.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-844.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-845.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-846.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-847.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-848.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-849.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-850.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-851.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-852.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-853.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-854.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-855.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-856.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-857.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-858.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-859.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-860.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-861.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-862.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-863.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-864.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-865.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-866.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-867.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-868.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-869.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-870.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-871.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-872.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-873.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-874.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-875.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-876.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-877.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-878.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-879.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-880.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-881.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-882.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-883.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-884.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-885.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-886.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-887.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-888.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-889.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-890.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-891.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-892.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-893.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-894.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-895.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-896.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-897.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-898.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-899.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-900.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-901.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-902.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-903.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-904.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-905.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-906.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-907.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-908.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-909.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-910.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-911.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-912.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-913.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-914.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-915.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-916.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-917.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-918.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-919.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-920.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-921.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-922.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-923.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-924.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-925.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-926.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-927.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-928.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-929.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-930.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-931.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-932.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-933.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-934.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-935.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-936.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-937.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-938.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-939.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-940.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-941.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-942.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-943.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-944.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-945.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-946.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-947.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-948.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-949.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-950.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-951.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-952.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-953.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-954.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-955.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-956.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-957.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-958.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-959.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-960.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-961.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-962.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-963.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-964.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-965.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-966.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-967.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-968.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-969.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-970.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-971.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-972.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-973.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-974.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-975.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-976.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-977.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-978.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-979.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-980.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-981.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-982.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-983.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-984.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-985.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-986.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-987.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-988.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-989.ts
+#EXTINF:5.8391, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-990.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-991.ts
+#EXTINF:5.9726, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-992.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-993.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-994.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-995.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-996.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-997.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-998.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-999.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1000.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1001.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1002.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1003.ts
+#EXTINF:5.9059, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1004.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1005.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1006.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1007.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1008.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1009.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1010.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1011.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1012.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1013.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1014.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1015.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1016.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1017.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1018.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1019.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1020.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1021.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1022.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1023.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1024.ts
+#EXTINF:5.9392, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1025.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1026.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1027.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1028.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1029.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1030.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1031.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1032.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1033.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1034.ts
+#EXTINF:5.8058, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1035.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1036.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1037.ts
+#EXTINF:6.6066, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1038.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1039.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1040.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1041.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1042.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1043.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1044.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1045.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1046.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1047.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1048.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1049.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1050.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1051.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1052.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1053.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1054.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1055.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1056.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1057.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1058.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1059.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1060.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1061.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1062.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1063.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1064.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1065.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1066.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1067.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1068.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1069.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1070.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1071.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1072.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1073.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1074.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1075.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1076.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1077.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1078.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1079.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1080.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1081.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1082.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1083.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1084.ts
+#EXTINF:5.8725, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1085.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1086.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1087.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1088.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1089.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1090.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1091.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1092.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1093.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1094.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1095.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1096.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1097.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1098.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1099.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1100.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1101.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1102.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1103.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1104.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1105.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1106.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1107.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1108.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1109.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1110.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1111.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1112.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1113.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1114.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1115.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1116.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1117.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1118.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1119.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1120.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1121.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1122.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1123.ts
+#EXTINF:5.005, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1124.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1125.ts
+#EXTINF:6.9736, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1126.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1127.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1128.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1129.ts
+#EXTINF:5.005, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1130.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1131.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1132.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1133.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1134.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1135.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1136.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1137.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1138.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1139.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1140.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1141.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1142.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1143.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1144.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1145.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1146.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1147.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1148.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1149.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1150.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1151.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1152.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1153.ts
+#EXTINF:6.006, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1154.ts
+#EXTINF:5.2052, no desc
+8723511-pdlAhvE-manifest.smil-audio_por=128004-video_por=1967000-1155.ts
+#EXT-X-ENDLIST
