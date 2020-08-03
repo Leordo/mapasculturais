@@ -6,7 +6,7 @@ if(!isset($asset_dir)){
 }
 
 // creating base url
-$prot_part = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] ? 'https://' : 'http://';
+$prot_part = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] ? 'https://mapaculturalbraganca.sp.gov.br' : 'http://mapaculturalbraganca.sp.gov.br';
 //added @ for HTTP_HOST undefined in Tests
 $host_part = @$_SERVER['HTTP_HOST'] . dirname($_SERVER['SCRIPT_NAME']);
 if(substr($host_part,-1) !== '/') $host_part .= '/';
@@ -87,8 +87,8 @@ return array(
     'app.dbUpdatesDisabled' => false,
     'app.defaultApiOutput' => 'json',
 
-    'app.siteName' => \MapasCulturais\i::__('Mapas Culturais'),
-    'app.siteDescription' => \MapasCulturais\i::__('O Mapas Culturais é uma plataforma livre para mapeamento cultural.'),
+    'app.siteName' => \MapasCulturais\i::__('Mmapa Cultural de Braganca Paulista'),
+    'app.siteDescription' => \MapasCulturais\i::__('O Mapa Cultural de Bragança Paulista....'),
 
     'api.accessControlAllowOrigin' => '*',
 
@@ -134,7 +134,7 @@ return array(
     'app.useGoogleGeocode' => false,
     'app.googleApiKey'     => '',
 
-    //    'maps.center' => array(-23.54894, -46.63882), // são paulo
+    'maps.center' => array(-22.976929,  -46.532852), // são paulo
     'maps.center' => array(-14.2400732, -53.1805018), // brasil
     'maps.maxClusterRadius' => 40,
     'maps.spiderfyDistanceMultiplier' => 1.3,
@@ -151,7 +151,7 @@ return array(
 
     'cep.endpoint'      => 'http://www.cepaberto.com/api/v2/ceps.json?cep=%s',
     'cep.token_header'  => 'Authorization: Token token="%s"',
-    'cep.token'         => '',
+    'cep.token'         => '[66a50c5065b209ef5d3aaa1bb57c5668]',
 
     'export.excelName'      => 'mapas-culturais-dados-exportados.xls',
 
